@@ -1,0 +1,13 @@
+* {
+    background: black;
+    overflow: hidden;
+}
+
+canvas {
+    position: relative;
+    top: 60%;
+    left: 60%;
+    margin-left: -50vmin;
+    width: 50vmin;
+    height: 50vmin;
+}
